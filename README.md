@@ -79,3 +79,5 @@ Total Ports = 40
 Total Used Ports = 18
 Ports Reserved = 0
 ```
+
+Thanks to @clintonskitson for his powershell ssh modules.
